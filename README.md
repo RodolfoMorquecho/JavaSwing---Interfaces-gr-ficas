@@ -54,3 +54,10 @@ Interfaz gráfica que contiene un campo de texto, un boton y una area de texto l
 Interfaz gráfica que contiene un campo de texto, y una area de texto que esta dentro de un panel de desplazamiento el cual corresponde al componente de tipo JScrollPane, se activa al pasar las dimensiones del area de texto vertical y para evitar hacer una area demasiado grande.
 
 ![7PanelDesplazamiento](https://user-images.githubusercontent.com/99112892/204713582-992ea1ea-2fbb-49ac-9d5b-bba94bbdbac0.png)
+
+
+## 8.ConversionDatos-ParseInt
+
+Interfaz grafica que contiene tres etiquetas, dos botones y dos campos de texto, el programa recibe dos numeros por parte del usuario y tiene la opcion de sumarlos, presionando el boton que lleva el mismo nombre y muestra el resultado en la tercer etiqueta.
+
+![8ConversionDatos](https://user-images.githubusercontent.com/99112892/204715212-80317805-2c40-42f3-bd40-b15381707561.png)
