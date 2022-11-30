@@ -69,3 +69,9 @@ Interfaz gráfica que contiene una lista desplegable la cual corresponde al comp
 
 ![9ListaDesplegable](https://user-images.githubusercontent.com/99112892/204716208-a19c8eb5-89ae-47bd-826c-33822b7d30fa.png)
 
+
+## 10.BotonRGB-JComboBox
+
+Interfaz gráfica en la que se muestran tres etiquetas con los colores RGB y tres lista desplegable que va de 0 a 255 para definir las distintas tonalidades de ese color, para finalizar presionamos el boton "fijar" para visualizar el color obtenido.
+
+![10BotonRGB](https://user-images.githubusercontent.com/99112892/204717118-fda8ba83-32d2-4d13-a430-e2e64c567661.png)
