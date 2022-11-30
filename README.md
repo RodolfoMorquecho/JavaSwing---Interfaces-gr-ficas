@@ -75,3 +75,14 @@ Interfaz gráfica que contiene una lista desplegable la cual corresponde al comp
 Interfaz gráfica en la que se muestran tres etiquetas con los colores RGB y tres lista desplegable que va de 0 a 255 para definir las distintas tonalidades de ese color, para finalizar presionamos el boton "fijar" para visualizar el color obtenido.
 
 ![10BotonRGB](https://user-images.githubusercontent.com/99112892/204717118-fda8ba83-32d2-4d13-a430-e2e64c567661.png)
+
+
+## 11.BarraMenu-JMenu-JMenuBar-JMenuItem
+
+Interfaz gráfica que contiene un espacio reservado para una barra de menu(JMenuBar), la barra de menu(JMenu) y tres opciones que iran dentro de ese menu(JMenuItem). El programa muestra un menu del que se desplegan tres opciones opciones de colores, que al seleccionar uno, pinta el fondo de ese color.
+
+![11_1BarraMenu](https://user-images.githubusercontent.com/99112892/204718682-6ebb8996-692a-4444-a194-435901d5970e.png)
+
+![11_2BarraMenu](https://user-images.githubusercontent.com/99112892/204718698-a8ebdded-e64a-4d73-a782-599d6f5dd213.png)
+
+
