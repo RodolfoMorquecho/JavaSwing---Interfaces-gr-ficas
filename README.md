@@ -42,8 +42,15 @@ Interfaz gráfica que contiene dos botones, una etiqueta y un campo de texto el 
 ![5_2CampoTexto](https://user-images.githubusercontent.com/99112892/204698969-b92a27ee-dc5a-4ba5-a39a-d27b157298e8.png)
 
 
-##6.AreaTexto-JTextArea
+## 6.AreaTexto-JTextArea
  
-Interfaz gráfica que contiene un campo de texto, un boton y una area de texto la cual corresponde al componente de tipo JTextArea en la que se puede escribir y saltar lineas.
+Interfaz gráfica que contiene un campo de texto, un boton y una area de texto la cual corresponde al componente de tipo JTextArea en la que se puede escribir como en un campo de texto, a diferencia de que en está se pueden para escribir en mas lineas.
+
+![6AreaTexto](https://user-images.githubusercontent.com/99112892/204712371-ef18235d-1183-4c86-bcec-8d5fafc2b19b.png)
 
 
+## 7.PandelDesplazamiento-JScrollPane
+
+Interfaz gráfica que contiene un campo de texto, y una area de texto que esta dentro de un panel de desplazamiento el cual corresponde al componente de tipo JScrollPane, se activa al pasar las dimensiones del area de texto vertical y para evitar hacer una area demasiado grande.
+
+![7PanelDesplazamiento](https://user-images.githubusercontent.com/99112892/204713582-992ea1ea-2fbb-49ac-9d5b-bba94bbdbac0.png)
