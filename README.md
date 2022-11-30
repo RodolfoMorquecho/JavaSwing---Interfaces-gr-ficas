@@ -61,3 +61,11 @@ Interfaz gráfica que contiene un campo de texto, y una area de texto que esta d
 Interfaz grafica que contiene tres etiquetas, dos botones y dos campos de texto, el programa recibe dos numeros por parte del usuario y tiene la opcion de sumarlos, presionando el boton que lleva el mismo nombre y muestra el resultado en la tercer etiqueta.
 
 ![8ConversionDatos](https://user-images.githubusercontent.com/99112892/204715212-80317805-2c40-42f3-bd40-b15381707561.png)
+
+
+## 9.ListaDesplegable-JComboBox
+
+Interfaz gráfica que contiene una lista desplegable la cual corresponde al componente de tipo JComboBox, el programa contiene una lista con 3 opciones y cuando el usuario selecciona una, se etablece como titulo de la ventana.
+
+![9ListaDesplegable](https://user-images.githubusercontent.com/99112892/204716208-a19c8eb5-89ae-47bd-826c-33822b7d30fa.png)
+
