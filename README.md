@@ -86,3 +86,4 @@ Interfaz gráfica que contiene un espacio reservado para una barra de menu(JMenu
 ![11_2BarraMenu](https://user-images.githubusercontent.com/99112892/204718698-a8ebdded-e64a-4d73-a782-599d6f5dd213.png)
 
 
+## 12.CuadroDeSeleccion-JCheckBox
