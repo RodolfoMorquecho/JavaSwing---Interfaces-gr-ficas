@@ -87,3 +87,7 @@ Interfaz gráfica que contiene un espacio reservado para una barra de menu(JMenu
 
 
 ## 12.CuadroDeSeleccion-JCheckBox
+
+Interfaz gráfica que contiene 3 cuadros de seleccion que corresponden al componente de tipo JCheckBox, el programa tiene tres opciones de idioma, de los cuales el usuario puede seleccionar mas de uno y se iran posicionando como titulo del Frame.
+
+![12CuadroDeSeleccion](https://user-images.githubusercontent.com/99112892/204975206-0a08ea74-93cc-4ca6-b0b5-1af2ff864523.png)
