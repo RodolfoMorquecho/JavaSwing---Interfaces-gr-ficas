@@ -93,7 +93,7 @@ Interfaz gráfica que contiene 3 cuadros de seleccion que corresponden al compon
 ![12CuadroDeSeleccion](https://user-images.githubusercontent.com/99112892/204975206-0a08ea74-93cc-4ca6-b0b5-1af2ff864523.png)
 
 
-## 13.TerminosCondiciones
+## 13.TerminosCondiciones-JCheckBox
 
 Interfaz grafica que contiene una etiqueta, un boton y un checkbox. El programa es un apartado donde se leen los terminos y condiciones, en caso de aceptarlas se selecciona el checkbox para que el boton este disponible para ser presionado ya que de lo contrario, el boton esta desactivado.
 
@@ -101,5 +101,13 @@ Interfaz grafica que contiene una etiqueta, un boton y un checkbox. El programa 
 
 ![13_2TerminosCondiciones](https://user-images.githubusercontent.com/99112892/204986570-f5b48fd5-f29d-4812-bec4-8feb0cb3c120.png)
 
+
+## 14.BotonCircular-JRadioButton-ButtonGroup
+
+Interfaz gráfica que contiene botones circulares que corresponder al componente de tipo JRadioButton y un grupo donde se almacenan el cual es de tipo ButtonGroup, la diferencia con este tipo de botones y los checkbox es que solo se puede seleccionar una opcion a la vez. El programa tiene un grupo donde se almacenan cuatro opciones posibles para modificar las dimensiones de la ventana.
+
+![14_1BotonCircular](https://user-images.githubusercontent.com/99112892/204988462-27977f26-03da-474a-bca4-c04a1442512b.png)
+
+![14_2BotonCircular](https://user-images.githubusercontent.com/99112892/204988494-c9d2c349-e7e8-489e-8da4-c3f5252c32a3.png)
 
 
