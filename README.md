@@ -91,3 +91,15 @@ Interfaz gráfica que contiene un espacio reservado para una barra de menu(JMenu
 Interfaz gráfica que contiene 3 cuadros de seleccion que corresponden al componente de tipo JCheckBox, el programa tiene tres opciones de idioma, de los cuales el usuario puede seleccionar mas de uno y se iran posicionando como titulo del Frame.
 
 ![12CuadroDeSeleccion](https://user-images.githubusercontent.com/99112892/204975206-0a08ea74-93cc-4ca6-b0b5-1af2ff864523.png)
+
+
+## 13.TerminosCondiciones
+
+Interfaz grafica que contiene una etiqueta, un boton y un checkbox. El programa es un apartado donde se leen los terminos y condiciones, en caso de aceptarlas se selecciona el checkbox para que el boton este disponible para ser presionado ya que de lo contrario, el boton esta desactivado.
+
+![13_1TerminosCondiciones](https://user-images.githubusercontent.com/99112892/204986552-ec0e9c0c-9d9b-425c-b05b-96c4eea1c269.png)
+
+![13_2TerminosCondiciones](https://user-images.githubusercontent.com/99112892/204986570-f5b48fd5-f29d-4812-bec4-8feb0cb3c120.png)
+
+
+
