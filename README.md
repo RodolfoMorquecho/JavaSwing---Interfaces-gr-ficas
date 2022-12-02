@@ -111,3 +111,9 @@ Interfaz gráfica que contiene botones circulares que corresponder al componente
 ![14_2BotonCircular](https://user-images.githubusercontent.com/99112892/204988494-c9d2c349-e7e8-489e-8da4-c3f5252c32a3.png)
 
 
+
+# Práctica
+
+## ReplicaEtiqueta
+
+![1ReplicaEtiqueta](https://user-images.githubusercontent.com/99112892/205221846-82dc1188-1129-4422-8c90-91b7d3de10d1.png)
