@@ -180,3 +180,12 @@ Creacion de distintos bloques de botones circulares para configurar la interfaz 
 ![8_3OpcionesCirculares](https://user-images.githubusercontent.com/99112892/205231722-27f8bc8a-8ea4-4ad9-ac52-bb72a632c158.png)
 
 
+## JuegoPreguntas
+
+Creacion de tres bloques de preguntas, el cual muestra el numero de aciertos y cambios en la unterfaz, si se consigue el puntaje mas alto.
+
+![9_1JuegoPreguntas](https://user-images.githubusercontent.com/99112892/205232801-d3096806-aa59-4c51-8513-322addd38cbb.png)
+
+![9_2JuegoPreguntas](https://user-images.githubusercontent.com/99112892/205232825-744a17da-4508-4320-810e-0263ec77b262.png)
+
+![9_3JuegoPreguntas](https://user-images.githubusercontent.com/99112892/205232884-afa5cb39-9d9c-4f8a-a92b-5045268e56da.png)
