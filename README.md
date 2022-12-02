@@ -126,3 +126,11 @@ Programa donde se pide un correo electronico dos veces para despues con un boton
 ![2_1ValidacionCampoTexto](https://user-images.githubusercontent.com/99112892/205227263-72fd7c60-28bc-47f5-b36c-ad9f9e18faf0.png)
 
 ![2_2ValidacionCampoTexto](https://user-images.githubusercontent.com/99112892/205227287-42850446-6316-468d-be25-bf1e8641d07c.png)
+
+
+## TransladarTarea
+
+Programa el cual tiene un campo para escribir una tarea y un boton para agregarla a una area mas grande, en la que podemos observar el orden(numero) en que fueron añadidas, tambien podemos bajar con un scroll en caso de que no se alcancen a visualizar todas.
+
+![3TransladarTarea](https://user-images.githubusercontent.com/99112892/205228428-487b5f8e-e549-4863-b06c-eef2c14e473f.png)
+
