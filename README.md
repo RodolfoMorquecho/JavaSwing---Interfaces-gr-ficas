@@ -169,3 +169,14 @@ Calculadora con la funcionalidad de las cuatro operaciones aritmeticas basicas, 
 ![7_3MiniCalculadora](https://user-images.githubusercontent.com/99112892/205230995-e6898dfe-001b-403a-99da-677a944c097b.png)
 
 
+## OpcionesCirculares
+
+Creacion de distintos bloques de botones circulares para configurar la interfaz con un titulo o color diferente.
+
+![8_1OpcionesCirculares](https://user-images.githubusercontent.com/99112892/205231478-6303beb2-ab6e-4db6-a164-1ee7302b9e60.png)
+
+![8_2OpcionesCirculares](https://user-images.githubusercontent.com/99112892/205231706-cbaf84e6-91bf-4815-b23d-62aa46625269.png)
+
+![8_3OpcionesCirculares](https://user-images.githubusercontent.com/99112892/205231722-27f8bc8a-8ea4-4ad9-ac52-bb72a632c158.png)
+
+
