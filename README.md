@@ -134,3 +134,9 @@ Programa el cual tiene un campo para escribir una tarea y un boton para agregarl
 
 ![3TransladarTarea](https://user-images.githubusercontent.com/99112892/205228428-487b5f8e-e549-4863-b06c-eef2c14e473f.png)
 
+
+## selectorDeOpciones
+
+Creacion de distintas listas desplegables para que el usuario seleccione, segun coresponde con su persona.
+
+![4SelectorDeOpciones](https://user-images.githubusercontent.com/99112892/205228915-9f81c48c-f8a0-4ab2-a73d-c9b3e3b0587a.png)
