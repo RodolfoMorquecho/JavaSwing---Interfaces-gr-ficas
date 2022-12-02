@@ -117,3 +117,12 @@ Interfaz gráfica que contiene botones circulares que corresponder al componente
 ## ReplicaEtiqueta
 
 ![1ReplicaEtiqueta](https://user-images.githubusercontent.com/99112892/205221846-82dc1188-1129-4422-8c90-91b7d3de10d1.png)
+
+
+## ValidacionCampoTexto
+
+Programa donde se pide un correo electronico dos veces para despues con un boton verificar si son iguales o no.
+
+![2_1ValidacionCampoTexto](https://user-images.githubusercontent.com/99112892/205227263-72fd7c60-28bc-47f5-b36c-ad9f9e18faf0.png)
+
+![2_2ValidacionCampoTexto](https://user-images.githubusercontent.com/99112892/205227287-42850446-6316-468d-be25-bf1e8641d07c.png)
