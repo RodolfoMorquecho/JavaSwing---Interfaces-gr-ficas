@@ -157,3 +157,15 @@ Programa que presenta distintos generos de musica y el usuario debera de selecci
 
 ![6OrdenamientoDeOpciones](https://user-images.githubusercontent.com/99112892/205230114-e59cdef2-c5f3-45be-addb-1ff79789568f.png)
 
+
+## MiniCalculadora
+
+Calculadora con la funcionalidad de las cuatro operaciones aritmeticas basicas, haciendo uso de componentes como: botones, etiquetas y panel.
+
+![7_1MiniCalculadora](https://user-images.githubusercontent.com/99112892/205230964-a1f23e39-fb23-4596-860e-fd89abc88ea6.png)
+
+![7_2MiniCalculadora](https://user-images.githubusercontent.com/99112892/205230986-7430a963-303f-401d-a380-2096907d858f.png)
+
+![7_3MiniCalculadora](https://user-images.githubusercontent.com/99112892/205230995-e6898dfe-001b-403a-99da-677a944c097b.png)
+
+
