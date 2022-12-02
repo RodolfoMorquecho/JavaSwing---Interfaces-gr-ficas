@@ -150,3 +150,10 @@ Barra de navegador que contiene una pestaña "opciones" la cual a su vez contien
 
 ![5_2Submenu](https://user-images.githubusercontent.com/99112892/205229504-75b63133-1f48-43b0-acb3-837c75b336d2.png)
 
+
+## OrdenamientoDeOpciones
+
+Programa que presenta distintos generos de musica y el usuario debera de seleccionar 2 o mas.
+
+![6OrdenamientoDeOpciones](https://user-images.githubusercontent.com/99112892/205230114-e59cdef2-c5f3-45be-addb-1ff79789568f.png)
+
