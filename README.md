@@ -135,8 +135,18 @@ Programa el cual tiene un campo para escribir una tarea y un boton para agregarl
 ![3TransladarTarea](https://user-images.githubusercontent.com/99112892/205228428-487b5f8e-e549-4863-b06c-eef2c14e473f.png)
 
 
-## selectorDeOpciones
+## SelectorDeOpciones
 
 Creacion de distintas listas desplegables para que el usuario seleccione, segun coresponde con su persona.
 
 ![4SelectorDeOpciones](https://user-images.githubusercontent.com/99112892/205228915-9f81c48c-f8a0-4ab2-a73d-c9b3e3b0587a.png)
+
+
+## Submenu
+
+Barra de navegador que contiene una pestaña "opciones" la cual a su vez contiene 2 menus, de donde cada una derivan 2 submenus o items.
+
+![5_1Submenu](https://user-images.githubusercontent.com/99112892/205229484-f4767362-29a9-4aba-8575-0f39d8e96b37.png)
+
+![5_2Submenu](https://user-images.githubusercontent.com/99112892/205229504-75b63133-1f48-43b0-acb3-837c75b336d2.png)
+
